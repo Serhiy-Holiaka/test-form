@@ -1,0 +1,3 @@
+.select :global(.MuiSelect-standard:focus) {
+    background-color: unset;
+}
